@@ -1,0 +1,7 @@
+int num
+float total
+switch
+do ( num + 10 )
+while ( 1 )
+if ( num / 10 ) 
+else ( total * 4 )
